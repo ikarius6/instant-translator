@@ -2,6 +2,8 @@
 
 Traductor de pantalla en tiempo real. Selecciona cualquier región de tu pantalla y obtén la traducción al español al instante, impulsado por **Groq** (Llama 4 Scout).
 
+https://github.com/user-attachments/assets/d73a51e6-9a29-49b9-8293-4b109b59d1df
+
 ## ✨ Características
 
 - **Hotkey global** — `Ctrl+Shift+Space` activa la captura en cualquier momento.
